@@ -1,0 +1,40 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+
+// Lands
+    4 [WWK] Raging Ravine
+    2 [AVR] Swamp (1)
+    4 [ZEN] Verdant Catacombs
+    1 [10E] Treetop Village
+    1 [GP] Stomping Ground
+    4 [SOM] Blackcleave Cliffs
+    1 [RAV] Overgrown Tomb
+    4 [ZEN] Marsh Flats
+    1 [GP] Godless Shrine
+    1 [MBS] Forest (2)
+    1 [RTR] Blood Crypt
+
+// Creatures
+    4 [ARB] Bloodbraid Elf
+    4 [RAV] Dark Confidant
+    4 [RTR] Deathrite Shaman
+    4 [FUT] Tarmogoyf
+
+// Spells
+    2 [RTR] Abrupt Decay
+    2 [ROE] Inquisition of Kozilek
+    4 [M11] Lightning Bolt
+    4 [DKA] Lingering Souls
+    2 [ARB] Terminate
+    3 [LRW] Thoughtseize
+    3 [ISD] Liliana of the Veil
+
+// Sideboard
+SB: 1 [TSP] Ancient Grudge
+SB: 2 [NPH] Batterskull
+SB: 1 [M12] Grim Lavamancer
+SB: 1 [ARB] Maelstrom Pulse
+SB: 2 [ISD] Olivia Voldaren
+SB: 1 [NPH] Phyrexian Metamorph
+SB: 3 [RTR] Rakdos Charm
+SB: 2 [MR] Rule of Law
+SB: 2 [10E] Shatterstorm

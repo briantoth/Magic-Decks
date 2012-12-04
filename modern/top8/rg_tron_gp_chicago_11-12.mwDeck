@@ -1,0 +1,39 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+
+// Lands
+    1 [WWK] Eye of Ugin
+    4 [9E] Urza's Tower
+    2 [MBS] Forest (2)
+    1 [ISD] Ghost Quarter
+    4 [FUT] Grove of the Burnwillows
+    4 [9E] Urza's Mine
+    4 [8E] Urza's Power Plant
+
+// Creatures
+    1 [NPH] Spellskite
+    3 [SOM] Wurmcoil Engine
+    1 [ROE] Emrakul, the Aeons Torn
+
+// Spells
+    3 [10E] Sylvan Scrying
+    4 [NPH] Karn Liberated
+    4 [ALA] Relic of Progenitus
+    3 [MR] Oblivion Stone
+    4 [M10] Pyroclasm
+    4 [ROE] Ancient Stirrings
+    4 [MR] Chromatic Sphere
+    4 [TSP] Chromatic Star
+    4 [ZEN] Expedition Map
+    1 [WWK] Explore
+
+// Sideboard
+SB: 1 [SHM] Grim Poppet
+SB: 2 [M12] Combust
+SB: 1 [NPH] Dismember
+SB: 1 [RTR] Electrickery
+SB: 4 [WWK] Nature's Claim
+SB: 1 [MR] Oblivion Stone
+SB: 1 [NPH] Spellskite
+SB: 2 [LRW] Thorn of Amethyst
+SB: 1 [RTR] Vandalblast
+SB: 1 [SOM] Wurmcoil Engine
