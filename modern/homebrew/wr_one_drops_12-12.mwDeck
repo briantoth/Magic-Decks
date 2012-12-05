@@ -1,0 +1,34 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+
+// Lands
+    4 [ROE] Plains (2)
+    2 [LRW] Mountain (1)
+    4 [ISD] Clifftop Retreat
+    4 [10E] Battlefield Forge
+    4 [RAV] Sacred Foundry
+    4 [ISD] Ghost Quarter
+
+// Creatures
+    4 [FUT] Aven Mindcensor
+    2 [CHK] Isamaru, Hound of Konda
+    4 [ALA] Ranger of Eos
+    4 [M12] Elite Vanguard
+    4 [RTR] Dryad Militant
+
+// Spells
+    4 [M12] Honor of the Pure
+    3 [M11] Lightning Bolt
+    3 [CFX] Path to Exile
+    3 [DIS] Proclamation of Rebirth
+    1 [DS] Sword of Light and Shadow
+    2 [DS] Sword of Fire and Ice
+    4 [RAV] Lightning Helix
+
+// Sideboard
+SB: 1 [CFX] Path to Exile
+SB: 4 [SOM] Leonin Arbiter
+SB: 1 [DIS] Proclamation of Rebirth
+SB: 1 [DS] Sword of Light and Shadow
+SB: 2 [SOM] Sword of Body and Mind
+SB: 2 [DS] Sword of Fire and Ice
+SB: 4 [PLC] Mana Tithe

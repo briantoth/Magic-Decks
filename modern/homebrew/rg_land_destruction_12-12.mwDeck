@@ -1,0 +1,33 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+
+// Lands
+    3 [M10] Forest (2)
+    4 [WWK] Raging Ravine
+    1 [M12] Rootbound Crag
+    2 [SOM] Copperline Gorge
+    4 [SHM] Fire-Lit Thicket
+    2 [LRW] Mountain (1)
+    4 [ZEN] Misty Rainforest
+    4 [GP] Stomping Ground
+
+// Creatures
+    3 [SHM] Deus of Calamity
+    2 [M11] Acidic Slime
+    4 [8E] Birds of Paradise
+    4 [M12] Llanowar Elves
+    4 [FUT] Tarmogoyf
+
+// Spells
+    4 [M11] Lightning Bolt
+    4 [9E] Stone Rain
+    3 [M11] Garruk Wildspeaker
+    4 [MR] Molten Rain
+    4 [PLC] Harmonize
+
+// Sideboard
+SB: 2 [PLC] Detritivore
+SB: 1 [SHM] Deus of Calamity
+SB: 4 [SHM] Firespout
+SB: 2 [10E] Shatterstorm
+SB: 2 [M13] Acidic Slime
+SB: 4 [M10] Pyroclasm
