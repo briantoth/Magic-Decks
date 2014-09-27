@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Tormented Hero"/>
+        <card number="4" price="0" name="Gnarled Scarhide"/>
+        <card number="4" price="0" name="Bloodsoaked Champion"/>
+        <card number="4" price="0" name="Pain Seer"/>
+        <card number="4" price="0" name="Mardu Skullhunter"/>
+        <card number="4" price="0" name="Herald of Torment"/>
+        <card number="4" price="0" name="Thoughtseize"/>
+        <card number="2" price="0" name="Hero's Downfall"/>
+        <card number="4" price="0" name="Mogis's Marauder"/>
+        <card number="22" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Spiteful Returned"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Hero's Downfall"/>
+        <card number="4" price="0" name="Master of the Feast"/>
+        <card number="4" price="0" name="Crippling Blight"/>
+        <card number="4" price="0" name="Murderous Cut"/>
+        <card number="3" price="0" name="Sign in Blood"/>
+        <card number="4" price="0" name="Polluted Delta"/>
+        <card number="4" price="0" name="Bloodstained Mire"/>
+    </zone>
+</cockatrice_deck>
